@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1980-find-unique-binary-string](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1980-find-unique-binary-string](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
