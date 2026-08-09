@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3310-remove-methods-from-project) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
