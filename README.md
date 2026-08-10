@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -69,14 +71,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
