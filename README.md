@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
