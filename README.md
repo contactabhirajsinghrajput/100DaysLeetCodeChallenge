@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
+| [0561-array-partition](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Nim Game
 |  |
