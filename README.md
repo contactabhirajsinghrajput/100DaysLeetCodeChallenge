@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0486-predict-the-winner](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [1980-find-unique-binary-string](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Memoization
 |  |
