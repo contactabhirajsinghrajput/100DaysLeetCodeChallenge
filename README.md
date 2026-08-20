@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0228-summary-ranges) |
+| [0303-range-sum-query-immutable](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0561-array-partition) |
@@ -156,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
