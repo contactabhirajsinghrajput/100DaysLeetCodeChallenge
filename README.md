@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [1980-find-unique-binary-string](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
 ## Depth-First Search
 |  |
