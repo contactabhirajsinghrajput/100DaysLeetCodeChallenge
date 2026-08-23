@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
