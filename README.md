@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0066-plus-one) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
