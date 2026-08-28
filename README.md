@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
@@ -146,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Nim Game
