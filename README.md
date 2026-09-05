@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -223,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
