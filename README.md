@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1768-merge-strings-alternately](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [1980-find-unique-binary-string](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [1768-merge-strings-alternately](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/contactabhirajsinghrajput/100DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
